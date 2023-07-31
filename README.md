@@ -9,44 +9,45 @@ The model is trained and tested on a kidney disease dataset (kidney.csv) that co
 # Input Attributes
 The prediction application allows users to input the following attributes:
 
-  Age (Years): The age of the patient.
-  Blood Pressure (mm/Hg): The patient's blood pressure.
-  Specific Gravity (SG): The specific gravity of urine, indicating urine concentration.
-  Albumin Level (g/L): The level of albumin in the blood, which can indicate kidney health.
-  Sugar Level: The level of sugar in the urine.
-  Red Blood Cell Count: Whether the red blood cell count is normal or abnormal.
-  Pus Cell Count: Whether the pus cell count is normal or abnormal.
-  Pus Cell Clumps: Whether pus cell clumps are present or not.
-  Bacterial Infection: Whether a bacterial infection is present or not.
-  Blood Glucose Random (mgs/dl): Random blood glucose level.
-  Blood Urea (mgs/dl): Blood urea level.
-  Serum Creatinine (mgs/dl): Serum creatinine level.
-  Sodium (mEq/L): Sodium level in the blood.
-  Potassium (mEq/L): Potassium level in the blood.
-  Hemoglobin (gms): Hemoglobin level.
-  Packed Cell Volume: Packed cell volume level.
-  White Blood Cell Count (cells/cumm): White blood cell count.
-  Red Blood Cell Count (millions/cmm): Red blood cell count.
-  Hypertension: Whether the patient has hypertension or not.
-  Diabetes Mellitus: Whether the patient has diabetes mellitus or not.
-  Coronary Artery Disease: Whether the patient has coronary artery disease or not.
-  Appetite: The patient's appetite (good or poor).
-  Pedal Edema: Whether the patient has pedal edema or not.
-  Anemia: Whether the patient has anemia or not.
+  1. Age (Years): The age of the patient.
+  2. Blood Pressure (mm/Hg): The patient's blood pressure.
+  3. Specific Gravity (SG): The specific gravity of urine, indicating urine concentration.
+  4. Albumin Level (g/L): The level of albumin in the blood, which can indicate kidney health.
+  5. Sugar Level: The level of sugar in the urine.
+  6. Red Blood Cell Count: Whether the red blood cell count is normal or abnormal.
+  7. Pus Cell Count: Whether the pus cell count is normal or abnormal.
+  8. Pus Cell Clumps: Whether pus cell clumps are present or not.
+  9. Bacterial Infection: Whether a bacterial infection is present or not.
+  10. Blood Glucose Random (mgs/dl): Random blood glucose level.
+  11. Blood Urea (mgs/dl): Blood urea level.
+  12. Serum Creatinine (mgs/dl): Serum creatinine level.
+  13. Sodium (mEq/L): Sodium level in the blood.
+  14. Potassium (mEq/L): Potassium level in the blood.
+  15. Hemoglobin (gms): Hemoglobin level.
+  16. Packed Cell Volume: Packed cell volume level.
+  17. White Blood Cell Count (cells/cumm): White blood cell count.
+  18. Red Blood Cell Count (millions/cmm): Red blood cell count.
+  19. Hypertension: Whether the patient has hypertension or not.
+  20. Diabetes Mellitus: Whether the patient has diabetes mellitus or not.
+  21. Coronary Artery Disease: Whether the patient has coronary artery disease or not.
+  22. Appetite: The patient's appetite (good or poor).
+  23. Pedal Edema: Whether the patient has pedal edema or not.
+  24. Anemia: Whether the patient has anemia or not.
   
 # Ensemble Learning Models
 The kidney disease prediction model is implemented using several ensemble learning algorithms to improve the prediction accuracy. The user can choose one or more models for comparison from the following list:
 
-  Random Forest
-  Naïve Bayes
-  Logistic Regression
-  Decision Tree
-  Gradient Boosting
-  Support Vector Machine
-  LightGBM
-  XGBoost
-  Multilayer Perceptron (MLP)
-  Artificial Neural Network (ANN)
+  1. Random Forest
+  2. Naïve Bayes
+  3. Logistic Regression
+  4. Decision Tree
+  5. Gradient Boosting
+  6. Support Vector Machine
+  7. LightGBM
+  8. XGBoost
+  9. Multilayer Perceptron (MLP)
+  10. Artificial Neural Network (ANN)
+      
 # How to Use
 1. Visit the live demo link: Kidney Disease Prediction.
 2. Fill in the required input attributes as described above.
