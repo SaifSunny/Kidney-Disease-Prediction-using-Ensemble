@@ -311,7 +311,7 @@ if st.button('Submit'):
         # Create a VotingClassifier with the top 3 models
         ensemble = VotingClassifier(
             estimators=[('rf', RandomForestClassifier()), ('xgb', XGBClassifier()), ('gb', GradientBoostingClassifier())],
-            voting='soft')
+            voting='hard')
 
         # Fit the voting classifier to the training data
         ensemble.fit(X_train, y_train)
@@ -336,8 +336,6 @@ if st.button('Submit'):
         st.write('Ensemble Model F1 Score:', ensamble_f1score)
         st.write('------------------------------------------------------------------------------------------------------')
 
-    # Add padding between the columns
-    st.empty()
 
     # Right column content
     with right_column:
