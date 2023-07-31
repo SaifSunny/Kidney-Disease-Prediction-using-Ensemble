@@ -49,7 +49,7 @@ The kidney disease prediction model is implemented using several ensemble learni
   10. Artificial Neural Network (ANN)
       
 # How to Use
-1. Visit the live demo link: Kidney Disease Prediction.
+1. Visit the live demo link: [Kidney Disease Prediction](https://kidney-disease-prediction-using-ensemble.streamlit.app/).
 2. Fill in the required input attributes as described above.
 3. Click on the "Submit" button to get predictions from the ensemble model and the selected individual models.
 4. The application will display the prediction results and performance metrics of each model, including accuracy, precision, recall, and F1 score.
