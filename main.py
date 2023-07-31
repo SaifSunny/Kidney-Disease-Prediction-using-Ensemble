@@ -297,8 +297,6 @@ if st.button('Submit'):
     df[numeric_columns] = df[numeric_columns].fillna(df[numeric_columns].median())
 
 
-    st.write(df)
-    st.write(user_input)
     # Split the dataset into train and test
     X = df.drop(['class','id'], axis=1)
     y = df['class']
