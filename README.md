@@ -49,10 +49,9 @@ The kidney disease prediction model is implemented using several ensemble learni
   10. Artificial Neural Network (ANN)
 
 # Screenshot
-![Screenshot (863)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/362eb35f-7845-4354-8f4f-2e7b4de30205)
-![Screenshot (866)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/a7f50fa0-13e3-45d8-9590-26c0b3754a7d)
-![Screenshot (867)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/5c3becd1-513a-43a4-a81c-36495cd19978)
-
+![Screenshot (869)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/64fb844a-4399-4ec8-91d9-be2f1eb8bd20)
+![Screenshot (871)![Screenshot (872)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/86eeca3e-679f-4ef6-bb5e-e38469279cb0)
+](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/edccccfc-e9f3-4260-a60d-1e1d70ca4ab2)
 
 # How to Use
 1. Visit the live demo link: [Kidney Disease Prediction](https://kidney-disease-prediction-using-ensemble.streamlit.app/).
