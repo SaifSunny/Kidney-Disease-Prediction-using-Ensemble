@@ -326,9 +326,9 @@ if st.button('Submit'):
         ensamble_f1score = f1_score(y_test, ensemble.predict(X_test))
 
         if model_predictions == 1:
-            st.write(f'According to Ensemble Model You have a **Very High Chance (1)** of Heart Disease.')
+            st.write(f'According to Ensemble Model You have a **Very High Chance (1)** of Kidney Disease.')
         else:
-            st.write(f'According to Ensemble Model You have a **Very Low Chance (0)** of Heart Disease.')
+            st.write(f'According to Ensemble Model You have a **Very Low Chance (0)** of Kidney Disease.')
 
         st.write('Ensemble Model Accuracy:', ensamble_accuracy)
         st.write('Ensemble Model Precision:', ensamble_precision)
