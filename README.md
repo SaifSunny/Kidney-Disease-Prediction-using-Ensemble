@@ -1,5 +1,5 @@
 # Kidney Disease Prediction Model using Ensemble Learning
-This repository contains a kidney disease prediction model built using ensemble learning techniques. The model aims to predict whether a patient is likely to have kidney disease based on various input attributes. The model has achieved an impressive 100% accuracy on the test dataset.
+This repository contains a kidney disease prediction model built using ensemble learning techniques. The model aims to predict whether a patient is likely to have kidney disease based on various input attributes. The model has achieved an impressive 96% accuracy on the test dataset.
 
 Live Demo: [Kidney Disease Prediction](https://kidney-disease-prediction-using-ensemble.streamlit.app/)
 
@@ -47,7 +47,13 @@ The kidney disease prediction model is implemented using several ensemble learni
   8. XGBoost
   9. Multilayer Perceptron (MLP)
   10. Artificial Neural Network (ANN)
-      
+
+# Screenshot
+![Screenshot (863)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/362eb35f-7845-4354-8f4f-2e7b4de30205)
+![Screenshot (866)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/a7f50fa0-13e3-45d8-9590-26c0b3754a7d)
+![Screenshot (867)](https://github.com/SaifSunny/Kidney-Disease-Prediction-using-Ensemble/assets/72490093/5c3becd1-513a-43a4-a81c-36495cd19978)
+
+
 # How to Use
 1. Visit the live demo link: [Kidney Disease Prediction](https://kidney-disease-prediction-using-ensemble.streamlit.app/).
 2. Fill in the required input attributes as described above.
